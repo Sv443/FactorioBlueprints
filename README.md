@@ -1,5 +1,5 @@
 ## FactorioBP
-All my self-made factorio blueprints.
+All my self-made Factorio blueprints.
 
 <br>
 
