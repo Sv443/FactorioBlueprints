@@ -1,5 +1,5 @@
 ## FactorioBP
-All my self-made Factorio blueprints.
+All my self-made Factorio blueprints like 7-segment displays, power level indicators and miscellaneous factories.
 
 <br>
 
