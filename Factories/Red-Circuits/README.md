@@ -7,6 +7,8 @@ The red belts are kept to a minimum but are unavoidable in such a compact design
   
 <img width="500" src="./image.png" alt="Red Circuit Factory" />
 
+<sup>(I used Bob's Adjustable Inserters in the old version of the screenshot. In a new version they were replaced with priority splitters.)</sup>
+
 <br>
 
 ### Blueprint string:
